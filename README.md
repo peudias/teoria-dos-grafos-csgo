@@ -36,6 +36,6 @@ FOi utilizado para identificar rivalidades, onde as arestas mais fortes indicam 
 
 - `Análise Temporal`: Considerar a evolução dessas rivalidades e conexões ao longo do tempo, observando como elas se desenvolvem em diferentes temporadas ou anos.
 
-- Contexto: É importante considerar o contexto das partidas (como torneios importantes ou finais) ao interpretar os resultados, pois eles podem adicionar uma camada adicional de significado às rivalidades identificadas.
+- `Contexto`: É importante considerar o contexto das partidas (como torneios importantes ou finais) ao interpretar os resultados, pois eles podem adicionar uma camada adicional de significado às rivalidades identificadas.
 
 Em resumo, a teoria dos grafos é uma ferramenta poderosa para analisar e visualizar as relações complexas e dinâmicas no cenário competitivo de CSGO, permitindo identificar as maiores rivalidades e as conexões mais frequentes de forma eficaz.
