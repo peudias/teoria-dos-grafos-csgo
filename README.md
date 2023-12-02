@@ -26,21 +26,21 @@
 
 A visualização do grafo ajuda a identificar rapidamente quais as conexões de uma equipe e quais são mais fortes.
 
-<center>
+<div align="justify">
 
 ![Alt text](./imgs/image.png)
 
-</center>
+</div>
 
 ## Extra
 
-<center>
+[**CS:GO - O JOGO QUE VALIA O TOP 1 DO MUNDO DE 2017!! (SK Vs FAZE) (ESL Pro League Season 6 Finals)**](https://www.youtube.com/watch?v=EjtxegacM_w)
+
+<div align="justify">
 
 ![Alt text](./imgs/sk-faze-valendo-top1.png)
 
-</center>
-
-[**SK vs FaZe**](https://www.youtube.com/watch?v=EjtxegacM_w)
+</div>
 
 ## Algoritmo utilizado
 
