@@ -1,3 +1,7 @@
+# Artigo
+
+As principais análises sobre o problema, implementação de código, referências e resultados encontram-se no artigo desse projeto. Disponível em: [Otimizando a Programação de Campeonatos de CS:GO: Uma Análise Estratégica de Redes de Competição Baseada em Teoria dos Grafos](./docs/Artigo-Otimizando-a-Programacao-de-Campeonatos-de-CSGO.pdf)
+
 # Análise de Redes de Competição em Partidas Profissionais de CS:GO Utilizando Teoria dos Grafos
 
 `Problema`: Utilizando a Teoria dos Grafos para Análise Estratégica de Rivalidades e Programação de Campeonatos em Partidas Profissionais de CS:GO.
