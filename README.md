@@ -8,7 +8,7 @@
 
 # 📑 Artigo
 
-As principais análises sobre o problema, implementação de código, referências e resultados encontram-se no artigo desse projeto. Disponível em: [Otimizando a Programação de Campeonatos de CS:GO: Uma Análise Estratégica de Redes de Competição Baseada em Teoria dos Grafos](./docs/Artigo-Otimizando-a-Programacao-de-Campeonatos-de-CSGO.pdf)
+As principais análises sobre o problema, implementação de código, referências e resultados encontram-se no artigo desse projeto. Disponível em: [Otimizando a Programação de Campeonatos de CS:GO: Uma Análise Estratégica de Redes de Competição Baseada em Teoria dos Grafos](./article/Otimizando-a-Programacao-de-Campeonatos-de-CSGO.pdf)
 
 ## 🧱 Construindo o Grafo
 
