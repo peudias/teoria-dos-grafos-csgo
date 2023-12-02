@@ -28,7 +28,7 @@ A visualização do grafo ajuda a identificar rapidamente quais as conexões de 
 
 <div style="text-align:center">
 
-![Alt text](image.png)
+![Alt text](./imgs/image.png)
 
 </div>
 
