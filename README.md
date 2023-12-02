@@ -28,17 +28,17 @@ A visualização do grafo ajuda a identificar rapidamente quais as conexões de 
 
 <div align="justify">
 
-![Alt text](./imgs/image.png)
+![Alt text](./imgs/image-1.png)
+
+![Alt text](./imgs/sk-top1-2016.png)
 
 </div>
 
-## Extra
-
-[**CS:GO - O JOGO QUE VALIA O TOP 1 DO MUNDO DE 2017!! (SK Vs FAZE) (ESL Pro League Season 6 Finals)**](https://www.youtube.com/watch?v=EjtxegacM_w)
-
 <div align="justify">
 
-![Alt text](./imgs/sk-faze-valendo-top1.png)
+![Alt text](./imgs/image.png)
+
+![Alt text](./imgs/sk-top1-2017.png)
 
 </div>
 
@@ -53,3 +53,13 @@ Este algoritmo calcula a força das conexões (arestas) entre as equipes (vérti
 - `Contexto`: É importante considerar o contexto das partidas (como torneios importantes ou finais, rivalidade entre jogadores, rivalidade de torcidas) ao interpretar os resultados, pois eles podem adicionar uma camada adicional de significado às rivalidades identificadas.
 
 Em resumo, a teoria dos grafos é uma ferramenta poderosa para analisar e visualizar as relações complexas e dinâmicas no cenário competitivo de Counter-Strike, permitindo identificar as maiores rivalidades e as conexões mais frequentes de forma eficaz.
+
+## Extra
+
+[**CS:GO - O JOGO QUE VALIA O TOP 1 DO MUNDO DE 2017!! (SK Vs FAZE) (ESL Pro League Season 6 Finals)**](https://www.youtube.com/watch?v=EjtxegacM_w)
+
+<div align="justify">
+
+![Alt text](./imgs/sk-faze-valendo-top1.png)
+
+</div>
