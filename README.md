@@ -26,11 +26,21 @@
 
 A visualização do grafo ajuda a identificar rapidamente quais as conexões de uma equipe e quais são mais fortes.
 
-<div style="text-align:center">
+<center>
 
 ![Alt text](./imgs/image.png)
 
-</div>
+</center>
+
+## Extra
+
+<center>
+
+![Alt text](./imgs/sk-faze-valendo-top1.png)
+
+</center>
+
+[**SK vs FaZe**](https://www.youtube.com/watch?v=EjtxegacM_w)
 
 ## Algoritmo utilizado
 
