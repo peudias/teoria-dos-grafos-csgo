@@ -1,6 +1,6 @@
 # Análise de Redes de Competição em Partidas Profissionais de CS:GO Utilizando Teoria dos Grafos
 
-`Problema`: Determinar quais equipes têm as maiores rivalidades ou conexões mais frequentes com base no histórico de partidas.
+`Problema`: Utilizando a Teoria dos Grafos para Análise Estratégica de Rivalidades e Programação de Campeonatos em Partidas Profissionais de CS:GO.
 
 ## Construindo o Grafo
 
@@ -14,28 +14,28 @@
 
 - `Etiquetas de Resultados`: Foram adicionadas informações sobre a contagem de vitórias/derrotas para cada par de equipes, o que ajudou a identificar rivalidades mais intensas.
 
+- `Análise de Rank`: Posições no rank mundial na data da partida influenciam o limiar de rivalidade.
+
 ## Análise do Grafo
 
-- `Determinando Rivalidades`: Uma alta frequência de confrontos (peso elevado nas arestas) indica uma rivalidade. Além disso, se os resultados desses confrontos forem equilibrados, isso sugere uma rivalidade competitiva.
+- `Determinando Rivalidades`: Uma alta frequência de confrontos (peso elevado nas arestas) indica uma rivalidade. Além disso, se os resultados desses confrontos forem equilibrados e a diferença do rank mundial de cada equipe, isso sugere uma rivalidade competitiva.
 
 - `Conexões Frequentes`: Pares de equipes com um número significativo de partidas entre si serão evidentes pelo peso das arestas. Essas são as conexões mais frequentes.
 
 ## Visualização
 
-A visualização do grafo ajuda a identificar rapidamente quais equipes têm mais conexões (indicando participação frequente em partidas) e quais têm as conexões mais fortes (indicando rivalidades ou muitos confrontos).
+A visualização do grafo ajuda a identificar rapidamente quais as conexões de uma equipe e quais são mais fortes.
+
+![Alt text](image.png)
 
 ## Algoritmo utilizado
 
 Algoritmo de Força de Conexão (`Strength of Ties`):
 
-Este algoritmo calcula a força das conexões (arestas) entre as equipes (vértices) com base na frequência e na importância das partidas.
+Este algoritmo calcula a força das conexões (arestas) entre as equipes (vértices) com base na frequência das disputas, diferença do placar das partidas, diferença do rank das partidas e consistência da rivalidade através dos anos.
 
-FOi utilizado para identificar rivalidades, onde as arestas mais fortes indicam uma alta frequência de confrontos ou partidas significativas entre as equipes.
+## Trabalhos Futuros
 
-## Considerações Adicionais (Futuro)
+- `Contexto`: É importante considerar o contexto das partidas (como torneios importantes ou finais, rivalidade entre jogadores, rivalidade de torcidas) ao interpretar os resultados, pois eles podem adicionar uma camada adicional de significado às rivalidades identificadas.
 
-- `Análise Temporal`: Considerar a evolução dessas rivalidades e conexões ao longo do tempo, observando como elas se desenvolvem em diferentes temporadas ou anos.
-
-- `Contexto`: É importante considerar o contexto das partidas (como torneios importantes ou finais) ao interpretar os resultados, pois eles podem adicionar uma camada adicional de significado às rivalidades identificadas.
-
-Em resumo, a teoria dos grafos é uma ferramenta poderosa para analisar e visualizar as relações complexas e dinâmicas no cenário competitivo de CSGO, permitindo identificar as maiores rivalidades e as conexões mais frequentes de forma eficaz.
+Em resumo, a teoria dos grafos é uma ferramenta poderosa para analisar e visualizar as relações complexas e dinâmicas no cenário competitivo de Counter-Strike, permitindo identificar as maiores rivalidades e as conexões mais frequentes de forma eficaz.
