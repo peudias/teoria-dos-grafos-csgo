@@ -26,6 +26,10 @@
 
 A visualização do grafo ajuda a identificar rapidamente quais as conexões de uma equipe e quais são mais fortes.
 
+### SK 2016
+
+O time do SK Gaming esteve no top-1 no ano de 2016 e o resultado do grafo indica que sua maior rivalidade na época era o time da Dignitas, que na época era top-3.
+
 <div align="justify">
 
 ![Alt text](./imgs/image-1.png)
@@ -34,6 +38,10 @@ A visualização do grafo ajuda a identificar rapidamente quais as conexões de 
 
 </div>
 
+### SK 2017 - Ano mágico
+
+O time do SK Gaming esteve no top-1 no ano de 2017 e foi o ano em que mais conquistou títulos. O resultado do grafo indica que sua maior rivalidade na época era o time da FaZe, que na época era top-2.
+
 <div align="justify">
 
 ![Alt text](./imgs/image.png)
@@ -41,6 +49,8 @@ A visualização do grafo ajuda a identificar rapidamente quais as conexões de 
 ![Alt text](./imgs/sk-top1-2017.png)
 
 </div>
+
+Obs:. O rank mundial é muito volátil sendo atualizado toda semana. O limiar de rivalidade leva em consideração, para além da frequência das partidas, os resultados, o rank e também a evolução durante o período de tempo, então há de se considerar que nem sempre os times do topo vão apresentar maiores rivalidades.
 
 ## Algoritmo utilizado
 
