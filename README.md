@@ -1,3 +1,7 @@
+# 🥇 Master Piece
+
+[Master Piece](https://github.com/phpdias/teoria-dos-grafos-csgo#-master-piece-o-melhor-v%C3%ADdeo-para-mostrar-a-%C3%A9poca-de-ouro-do-maior-time-de-csgo-da-hist%C3%B3ria-)
+
 # 🔎 Análise de Redes de Competição em Partidas Profissionais de CS:GO Utilizando Teoria dos Grafos
 
 `Problema`: Utilizando a Teoria dos Grafos para Análise Estratégica de Rivalidades e Programação de Campeonatos em Partidas Profissionais de CS:GO.
