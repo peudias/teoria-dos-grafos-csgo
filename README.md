@@ -78,7 +78,7 @@ Em resumo, a teoria dos grafos é uma ferramenta poderosa para analisar e visual
 
 </div>
 
-# 🇧🇷 O melhor vídeo para mostrar a época de ouro do maior time de CS:GO da história
+# 🇧🇷 MASTER PIECE: O melhor vídeo para mostrar a época de ouro do maior time de CS:GO da história 🏆
 
 [**SK Gaming - The Dream**](https://www.youtube.com/watch?v=ovtpt9Wpfmo)
 
