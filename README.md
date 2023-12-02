@@ -26,7 +26,15 @@
 
 A visualização do grafo ajuda a identificar rapidamente quais as conexões de uma equipe e quais são mais fortes.
 
+<div style="text-align:center">
+
+![Alt text](image-1.png)
+
 ![Alt text](image.png)
+
+![Alt text](image-2.png)
+
+</div>
 
 ## Algoritmo utilizado
 
